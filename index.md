@@ -13,6 +13,8 @@ By bridging these two perspectives, Machine Visual Culture offers an interdiscip
 
 The group runs parallel nodes in **Rome** (Bibliotheca Hertziana) and **Cambridge** (Cambridge Digital Humanities), hosting visiting researchers, artists, postdocs, and doctoral students.
 
+More information here: [https://www.biblhertz.it/en/machine-visual-culture](url)
+
 ---
 
 # People
