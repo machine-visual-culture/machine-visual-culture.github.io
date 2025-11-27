@@ -1,5 +1,10 @@
 # Machine Visual Culture Research Group  
-### Bibliotheca Hertziana – Max Planck Institute for Art History, Rome
+
+
+This is a small, unofficial page for the research group, which is divided between two institutions (each with their own institutional websites):
+
+[Bibliotheca Hertziana – Max Planck Institute for Art History, Rome](https://www.biblhertz.it/machine-visual-culture) and
+[Cambridge Digital Humanities](https://www.cdh.cam.ac.uk/) 
 
 ---
 
@@ -55,7 +60,7 @@ Silvia Garzarella is a PhD candidate at the University of Bologna studying the r
 **September 2025 – September 2026: Violaine Boutet de Monvel**  
 Violaine Boutet de Monvel works on noise and recursivity in art and media, from video feedback systems to generative AI, drawing on contemporary art theory and media studies.
 
-**December 2025 – December 2026: Amira Moeding**  
+**April 2026 – April 2027: Amira Moeding**  
 Amira Moeding works on the intellectual history of computation, from early computational linguistics to contemporary AI, with interests in epistemic change in data-driven research cultures.
 
 ---
