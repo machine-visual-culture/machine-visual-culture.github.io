@@ -1,5 +1,3 @@
-# Machine Visual Culture Research Group
-
 This is a small, unofficial explainer page for the research group led by Leonardo Impett, which is divided between two institutions, each with their own  institutional websites:
 
 [Bibliotheca Hertziana, Max Planck Institute for Art History, Rome](https://www.biblhertz.it/machine-visual-culture) and [Cambridge Digital Humanities](https://www.cdh.cam.ac.uk/)
