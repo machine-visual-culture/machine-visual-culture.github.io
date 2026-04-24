@@ -2,6 +2,8 @@ This is a small, unofficial explainer page for the research group led by Leonard
 
 [Bibliotheca Hertziana, Max Planck Institute for Art History, Rome](https://www.biblhertz.it/machine-visual-culture) and [Cambridge Digital Humanities](https://www.cdh.cam.ac.uk/)
 
+We are also on [Instagram](https://www.instagram.com/machinevisualculture/). 
+
 ---
 
 ## About
