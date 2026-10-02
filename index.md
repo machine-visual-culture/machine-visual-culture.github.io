@@ -63,6 +63,10 @@ Robert Zamboni is a PhD candidate in the Art, Technology, and Perception doctora
 **Alexandra Gilliams**  
 Alexandra Gilliams is a PhD candidate in Art History at Paris 1 Panthéon Sorbonne University and a curator whose work explores the aesthetics and politics of artificial intelligence in contemporary art.
 
+
+**Lachlan Kermode**  
+Lachlan Kermode is a PhD candidate in Modern Culture and Media at Brown University, with a background in computer science and software research. His work examines the history of computer science and software engineering, twentieth-century mathematics, political economy, and critical approaches to contemporary AI and computing.
+
 **Aijia Zhang**  
 Aijia Zhang is a PhD candidate at Heidelberg University working on computational approaches to Chinese *lianhuanhua* comics. Her research combines distant reading and distant viewing to study the relationship between text and image, visual conventions, narrative patterns, and the political and cultural meanings produced through multimodal media.
 
