@@ -63,9 +63,6 @@ Robert Zamboni is a PhD candidate in the Art, Technology, and Perception doctora
 **Alexandra Gilliams**  
 Alexandra Gilliams is a PhD candidate in Art History at Paris 1 Panthéon Sorbonne University and a curator whose work explores the aesthetics and politics of artificial intelligence in contemporary art.
 
-**Kelly McClinton**  
-Kelly McClinton is a DPhil researcher at the University of Oxford working on Roman domestic space, material culture, and urban transformation in late antiquity, with a background in virtual heritage, 3D reconstruction, and computational approaches to Roman art and architecture. 
-
 
 ### Administrative assistant
 
@@ -134,8 +131,24 @@ Marta Pizzagalli is a PhD researcher at USI Lugano working on comparative litera
 **Adrien Jeanrenaud (Geneva)**  
 Adrien Jeanrenaud is a PhD student at the University of Geneva in the Visual Contagions project. His research examines the globalisation of images since 1945, especially through film posters, combining archival research, digital image analysis, computer vision, and visual culture.
 
+
+---
+
+## External Cosupervised PhD Students
+
+
 **Ludovica Schaerf (Zürich)**
 Ludovica Schaerf is a PhD student in Digital Visual Studies between the Max Planck Society and the University of Zurich. Her research focuses on computer vision, AI art, digital art history, and the interpretation of latent spaces in generative models, with a background in informatics and digital humanities. 
+
+**Clay Foye (Zürich)**  
+Clay Foye is a PhD student at the University of Zürich working on the epistemologies of multimodal AI models, knowledge representation, and mechanistic interpretability. His research examines the relationship between internal model representations and their external textual and visual representations, asking how multimodality and interfaces shape what AI systems can be said to know.
+
+**Annalena Alber (Zürich)**  
+Annalena Alber is a PhD student at the University of Zürich studying changing relationships between image and text in travel and mountaineering literature. Using historical corpora alongside vision-language models, her research examines how visual and textual meaning is co-created across languages, audiences, and centuries of technological change.
+
+**Albina Toumarkine (PSL)**  
+Albina Toumarkine is a PhD student at the École Pratique des Hautes Études – PSL working on the historical integration of photography into museum practices, focusing on the Musée des Arts Décoratifs in Paris. Her research combines archival study with computer vision and multimodal methods to examine how photographic collections were assembled, classified, reproduced, and circulated, and how computational analysis can reveal their underlying institutional and epistemic structures.
+
 
 ---
 
