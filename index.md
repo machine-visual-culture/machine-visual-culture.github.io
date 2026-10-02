@@ -134,8 +134,7 @@ Adrien Jeanrenaud is a PhD student at the University of Geneva in the Visual Con
 
 ---
 
-## External Cosupervised PhD Students
-
+## External Members Supervised by Leonardo Impett 
 
 **Ludovica Schaerf (Zürich)**
 Ludovica Schaerf is a PhD student in Digital Visual Studies between the Max Planck Society and the University of Zurich. Her research focuses on computer vision, AI art, digital art history, and the interpretation of latent spaces in generative models, with a background in informatics and digital humanities. 
@@ -148,6 +147,9 @@ Annalena Alber is a PhD student at the University of Zürich studying changing r
 
 **Albina Toumarkine (PSL)**  
 Albina Toumarkine is a PhD student at the École Pratique des Hautes Études – PSL working on the historical integration of photography into museum practices, focusing on the Musée des Arts Décoratifs in Paris. Her research combines archival study with computer vision and multimodal methods to examine how photographic collections were assembled, classified, reproduced, and circulated, and how computational analysis can reveal their underlying institutional and epistemic structures.
+
+**Samuel Driver (Metropolitan Museum of Art)**  
+Samuel Driver is a Schmidt Sciences AI & the Humanities Postdoctoral Research Scholar at the Metropolitan Museum of Art and Visiting Scholar at Brown University. His research examines historical photographic manipulation and its relationship to contemporary AI, using computer vision to study manipulation across museum collections while critically analysing the visual ideologies of the models doing the looking.
 
 
 ---
