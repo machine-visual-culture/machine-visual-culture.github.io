@@ -58,7 +58,9 @@
   --lead:clamp(26px,2.6vw,50px);
 }
 *{box-sizing:border-box}
-html{background:var(--bg) url(assets/bg.jpg) center/cover fixed;color:var(--ink)}
+html{background:var(--bg);color:var(--ink)}
+body::before{content:"";position:fixed;inset:0;z-index:-1;background:var(--bg) url(assets/bg.jpg) center/cover no-repeat;pointer-events:none}
+@media (orientation:portrait){body::before{background-image:url(assets/bg-portrait.jpg)}}
 body{margin:0;font-family:var(--dia);font-weight:400;-webkit-font-smoothing:antialiased;font-variant-numeric:tabular-nums}
 a{color:inherit;text-decoration:none;background:linear-gradient(transparent 82%,var(--y) 82%)}
 a:hover{background:linear-gradient(transparent 14%,var(--y) 14%,var(--y) 86%,transparent 86%)}
